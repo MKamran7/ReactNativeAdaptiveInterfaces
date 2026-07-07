@@ -111,7 +111,10 @@ const styles = StyleSheet.create({
         height: 100,
         width: 100,
         borderRadius: 10,
-        marginInline: 150,
+        justifyContent: "center",
+        flex: 1
+
+
 
 
     },
